@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamGrzeszczuk
 - 👀 I’m interested in learning to code, fixed gear and bouldering. Ah and I forgot about my kid :-)
-- 🌱 I’m currently learning Python, some SQL from time to time. 
+- 🌱 I’m currently learning Python, OOP principles, data structures and some SQL from time to time. 
 - 💞️ I’m looking to collaborate on whatever I can put my hands on.
 - 📫 How to reach me through that https://adamgrzeszczuk.github.io/AdamG/
 
